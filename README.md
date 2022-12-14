@@ -1,5 +1,5 @@
 # SpeedingUpR
-(2022 most recent) A very simple guide to speeding up R on personal Windows devices. (coming soon) 
+(2022 most recent) A very simple guide to speeding up R on personal Windows devices. 
 
 Revisions: 
 * Revision 1: Rev1is now uploaded, and will provides an easy way for Window's users to significantly speed up matrix operations on their personal device via the use of parallelization (using multiple threads) of their CPU. The guide will contain both background information, instructions, and timing results on my personal device, often achieving a speedup of two orders of magnitude. 
