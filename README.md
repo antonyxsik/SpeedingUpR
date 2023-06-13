@@ -8,4 +8,4 @@ Note: those uninterested in anything additional and just want to speed up R shou
 
 * Revision 2: Rev 2 will be future work with outsourcing the matrix operations to the GPU. For users with advanced graphics cards (an easy example is most people with a gaming laptop), this will provide an even faster speedup than the CPU strategy. 
 
-NOTE: Window's users who just want to speed up their R on their personal devices: skip straight to the "An Easy Speedup for Windows Users" section. The instructions there should be easy to follow, the background information will be helpful, and the timing results are just pleasing to look at!
+NOTE: Window's users who just want to speed up their R on their personal devices: skip straight to the "An Easy Speedup for Windows Users" section. The instructions there should be easy to follow, the background information will be helpful, and the timing results are just pleasing to look at! 
